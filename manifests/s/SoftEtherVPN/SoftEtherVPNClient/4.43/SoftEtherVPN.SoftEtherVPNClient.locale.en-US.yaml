@@ -1,0 +1,13 @@
+# Created using wingetcreate 1.6.5.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
+
+PackageIdentifier: SoftEtherVPN.SoftEtherVPNClient
+PackageVersion: "4.43"
+PackageLocale: en-US
+Publisher: SoftEther VPN
+PackageName: SoftEtherVPN Client
+License: Apache-2.0
+Copyright: Copyright (C) 2012-2023 SoftEther VPN Project. All Rights Reserved.
+ShortDescription: An Open-Source Free ​Cross-platform Multi-protocol VPN Program
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0

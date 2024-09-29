@@ -1,0 +1,14 @@
+# Created using wingetcreate 1.6.5.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
+
+PackageIdentifier: SoftEtherVPN.SoftEtherVPNClient
+PackageVersion: "4.43"
+InstallerType: exe
+InstallerSwitches:
+  Silent: /quiet
+Installers:
+- Architecture: x64
+  InstallerUrl: https://jp.softether-download.com/files/softether/v4.43-9799-beta-2023.08.31-tree/Windows/SoftEther_VPN_Client/softether-vpnclient-v4.43-9799-beta-2023.08.31-windows-x86_x64-intel.exe
+  InstallerSha256: 1C5E5CFC9734FF29821969738D78FCF53E2817CE070368217B329AFFE389295B
+ManifestType: installer
+ManifestVersion: 1.6.0
